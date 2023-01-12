@@ -1,0 +1,9 @@
+/venv
+token.json
+token.pickle
+data/account.csv
+.env
+creds.json
+.DS_Store
+.idea/
+__pycache__/
